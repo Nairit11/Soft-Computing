@@ -1,0 +1,9 @@
+Assignment # 8 ( Fuzzy expert system)
+
+1. Study and solve Fuzzy expert system for assessing home mortgage applications
+
+link:(https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnY25hbmRpfGd4OjMxZjAxODkxNTZlMWNmYjU)
+
+2. Design a fuzzy expert system for getting guidance for University Acceptance/Admission possibility with minimum three inputs.
+
+3. Practice Fuzzy addition and function evaluation.
